@@ -1,5 +1,5 @@
 {
-    "name": "23m/livewire-async",
+    "name": "SmoKE585/livewire-async",
     "description": "Extending the Laravel Livewire's component to load asynchronous",
     "type": "library",
     "require": {
