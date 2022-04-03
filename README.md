@@ -1,4 +1,4 @@
-# Livewire Async
+# Livewire Async (UPDATE FOR BOOTSTRAP 5 + Animate.css)
 
 We totally ❤️ [Livewire by Caleb Porzio](https://github.com/livewire/livewire).
 
