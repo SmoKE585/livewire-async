@@ -12,7 +12,7 @@ However, if you build multiple components with this behaviour, it feels kind of 
 You just want to run
 
 ```bash
-$ composer require 23m/livewire-async
+$ composer require SmoKE585/livewire-async
 ```
 
 That's it.
