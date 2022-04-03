@@ -1,4 +1,5 @@
 # Livewire Async (UPDATE FOR BOOTSTRAP 5 + Animate.css)
+## Tested Laravil 8 + Livewire 2.x
 
 We totally ❤️ [Livewire by Caleb Porzio](https://github.com/livewire/livewire).
 
