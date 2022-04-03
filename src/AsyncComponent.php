@@ -17,7 +17,7 @@ abstract class AsyncComponent extends Component
         if ($this->load) {
             return $app->call([$this, 'renderAsync']);
         } else {
-            return view('livewire-async::loading');
+            return view('livewire-async.loading');
         }
     }
 }
